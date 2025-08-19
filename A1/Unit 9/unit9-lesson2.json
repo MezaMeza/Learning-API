@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "items": "1",
+      "er": "0",
+      "course": "559",
+      "group": "3777",
+      "unity": "563",
+      "lesson": "607",
+      "acpro": "3305",
+      "typepro": "20",
+      "pos": 0,
+      "tini": "2025-04-20 07:59:48",
+      "tlesson": "2025-04-20 08:03:53",
+      "keyin": "",
+      "activity": "13475",
+      "session_id": "",
+      "typeOption": "save_multiple_progress"
+    },
+    {
+      "items": "1",
+      "er": "0",
+      "course": "559",
+      "group": "3777",
+      "unity": "563",
+      "lesson": "607",
+      "acpro": "3306",
+      "typepro": "20",
+      "pos": 0,
+      "tini": "2025-04-20 07:59:48",
+      "tlesson": "2025-04-20 08:03:53",
+      "keyin": "",
+      "activity": "13474",
+      "session_id": "",
+      "typeOption": "save_multiple_progress"
+    },
+    {
+      "items": "1",
+      "er": "0",
+      "course": "559",
+      "group": "3777",
+      "unity": "563",
+      "lesson": "607",
+      "acpro": "3307",
+      "typepro": "20",
+      "pos": 0,
+      "tini": "2025-04-20 07:59:48",
+      "tlesson": "2025-04-20 08:03:53",
+      "keyin": "",
+      "activity": "13473",
+      "session_id": "",
+      "typeOption": "save_multiple_progress"
+    },
+    {
+      "items": "3",
+      "er": "0",
+      "course": "559",
+      "group": "3777",
+      "unity": "563",
+      "lesson": "607",
+      "acpro": "3311",
+      "typepro": "20",
+      "pos": 0,
+      "tini": "2025-04-20 07:59:48",
+      "tlesson": "2025-04-20 08:03:53",
+      "keyin": "",
+      "activity": "13476",
+      "session_id": "",
+      "typeOption": "save_multiple_progress"
+    },
+    {
+      "items": "3",
+      "er": "0",
+      "course": "559",
+      "group": "3777",
+      "unity": "563",
+      "lesson": "607",
+      "acpro": "3310",
+      "typepro": "20",
+      "pos": 0,
+      "tini": "2025-04-20 07:59:48",
+      "tlesson": "2025-04-20 08:03:53",
+      "keyin": "",
+      "activity": "13477",
+      "session_id": "",
+      "typeOption": "save_multiple_progress"
+    },
+    {
+      "items": "3",
+      "er": "0",
+      "course": "559",
+      "group": "3777",
+      "unity": "563",
+      "lesson": "607",
+      "acpro": "3309",
+      "typepro": "20",
+      "pos": 0,
+      "tini": "2025-04-20 07:59:48",
+      "tlesson": "2025-04-20 08:03:53",
+      "keyin": "",
+      "activity": "13478",
+      "session_id": "",
+      "typeOption": "save_multiple_progress"
+    },
+    {
+      "items": "5",
+      "er": "0",
+      "course": "559",
+      "group": "3777",
+      "unity": "563",
+      "lesson": "607",
+      "acpro": "3308",
+      "typepro": "20",
+      "pos": 0,
+      "tini": "2025-04-20 07:59:48",
+      "tlesson": "2025-04-20 08:03:53",
+      "keyin": "",
+      "activity": "13479",
+      "session_id": "",
+      "typeOption": "save_multiple_progress"
+    }
+  ],
+  "dataV2": {
+    "group": "3777",
+    "course": "559",
+    "unity": "563",
+    "lesson": "607",
+    "array_activitys": [
+      {
+        "total": "1",
+        "errors": 0,
+        "success": "1",
+        "type": "20",
+        "activity": "13475"
+      },
+      {
+        "total": "1",
+        "errors": 0,
+        "success": "1",
+        "type": "20",
+        "activity": "13474"
+      },
+      {
+        "total": "1",
+        "errors": 0,
+        "success": "1",
+        "type": "20",
+        "activity": "13473"
+      },
+      {
+        "total": "3",
+        "errors": 0,
+        "success": "3",
+        "type": "20",
+        "activity": "13476"
+      },
+      {
+        "total": "3",
+        "errors": 0,
+        "success": "3",
+        "type": "20",
+        "activity": "13477"
+      },
+      {
+        "total": "3",
+        "errors": 0,
+        "success": "3",
+        "type": "20",
+        "activity": "13478"
+      },
+      {
+        "total": "5",
+        "errors": 0,
+        "success": "5",
+        "type": "20",
+        "activity": "13479"
+      }
+    ],
+    "total_activitys": 14,
+    "errors_result_activitys": 0,
+    "success_result_activitys": 14,
+    "pending_result_activitys": 0,
+    "total_groups_activitys": 7,
+    "total_groups_activitys_success": 7,
+    "total_groups_activitys_pendings": 0,
+    "success_lesson_date": "",
+    "success_lesson_activities": 2,
+    "year": "2025"
+  },
+  "typeOption": "save_multiple_progress_webv2"
+}
